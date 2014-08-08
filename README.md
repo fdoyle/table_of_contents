@@ -1,10 +1,17 @@
+ToC
+===
+
 Currently this is just a demo project
 
 hopefully it'll turn into something more
 
 todo: 
+----
 add a proper .gitignore
+
+
 {
+
 add concept of an ActivityFactory - an object that contains methods which return intents to open a particular activity. 
 this would allow users to set up different ways to open the activity, like adding intent extras, intent flags, things like that. 
 
