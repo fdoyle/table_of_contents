@@ -18,4 +18,5 @@ this would allow users to set up different ways to open the activity, like addin
 Ideally, this should follow our internal pattern of static getIntent methods. 
 
 Map activity Class object to its builder, parse out methods with @IntentBuilder, display in list. user can pick from list to use the intents created by those methods. 
+
 }
