@@ -23,4 +23,6 @@ Map activity Class object to its builder, parse out methods with @IntentBuilder,
 
 { //alternate intentbuilder concept
 
-map of Classes to built-by-hand intents. These intents would contain valid data
+map of Classes to (lists of?) built-by-hand intents. 
+
+}
